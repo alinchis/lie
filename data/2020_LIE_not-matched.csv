@@ -1,0 +1,48 @@
+id#nr#risc_seismic#adr_tip#adr_strada#adr_strada_obs#adr_nr#adr_nr_obs#sector#nr_ap#nr_ap_obs#regim_h#an_constructie#an_expertiza#aria_desfasurata#expert_tehnic#observatii#lat#lon#cod_lmi
+CS1-00092#92#Clasa I#Strada#Emanoil Bacaloglu##2#Corp C3#2##(C3 - magazie dezafectata)#P+1E#1936#2018#-#Mihai Voiculescu####
+CS1-00173#173#Clasa I#Strada#Lipscani##70##3#-##S+P+1E#1920#2019#525#Ionel BELGUN####
+CS1-00174#174#Clasa I#Strada#Lipscani##75##3#-##P+1E#1920#2019#147#Ionel BELGUN####
+CS1-00188#188#Clasa I#Strada#LOGOFĂTUL LUCA STROICI##7##2#1##P#1935#1993#206#Constantin BALAN####
+CS1-00272#272#Clasa I#Bulevardul#REGINA MARIA##33#corp B#4#5##P+1E+Ma#1900#2012#162#Catalin TROFINOV####
+CS1-00278#278#Clasa I#Strada#SAPIENŢEI##1##5#15##S+P+5E#1930#1995#2189#Alexandrina PRETORIAN####
+CS1-00279#279#Clasa I#Strada#SAPIENŢEI##1#corp A#5#5##S+P+3E#1936#1993#600#Dan STANCIULESCU; Alexandrina PRETORIAN####
+CS2-00041#41#Clasa II#Strada#BISERICA AMZEI#colţ cu Calea VICTORIEI#2÷4#136#1#0##P+7E#1958#2000#0#Maria DARIE####
+CS2-00042#42#Clasa II#Calea#CĂLĂRAȘILOR##317##3#3##S+P+2E#1930#2010##Ionel BELGUN####
+CS2-00049#49#Clasa II#Bulevardul#CAROL I##12##2#0##S+Mz+P+6E#1924#2018#9.88#Cătălin ȘTEFAN####
+CS2-00076#76#Clasa II#Bulevardul#CORNELIU COPOSU##1#corp A#3#20##S+P+6E#1928#2014#2401#Dan POPESCU#Încadrare în clasă de risc seismic în anul 2014###
+CS2-00077#77#Clasa II#Bulevardul#CORNELIU COPOSU##1#corp C#3#20##S+P+6E#1928#2014#2401#Dan POPESCU#Încadrare în clasă de risc seismic în anul 2014###
+CS2-00078#78#Clasa II#Șoseaua#COTROCENI##32#corp B#6#-##S+P+1E#1936 - 1937#2017##Constantin FIRTEA####
+CS2-00251#251#Clasa II#Strada#PARFUMULUI##28##3#30##S+P+7E+Pod#1944#2018#1772#Gabriel NICULESCU#Încadrare în clasă de risc seismic în anul 2018 (documentaţie tehnico economică elaborată pentru creşterea eficienţei energetice a construcţiei)###
+CS2-00257#257#Clasa II#Piaţa#GĂRII FILARET##2##4#13##S+P+3E+Ma#1920#2018#1.79#Ionel BELGUN####
+CS2-00275#275#Clasa II#Bulevardul#REGINA ELISABETA##5##3#-##S1+S2+P+3E+Ma#1896 - 1914#2018#16854#Alexandrina PRETORIAN####
+CS2-00309#309#Clasa II#Strada#SPIRU HARET##8##1#-##Ds+P+1E#1886#2016##Constantin FIRTEA####
+CS2-00340#340#Clasa II#Strada#Vasile Alecsandri##5##1###Sp+P+2E+Ma#1930#2018##Mihai Voiculescu####
+CS3-00031#31#Clasa III#Strada#Emanoil Bacaloglu##2#Corp C2#2##(C2 - spatiu pentru invatamant)#P+1E#1940#2018#-#Mihai Voiculescu####
+CS3-00077#77#Clasa III#Strada#OCCIDENTULUI#colţ cu Strada ECATERINA TEODOROIU#32#22#1#5##S+P+1E+Ma#anexă: P#2018#805#Bogdan GULEAC#Încadrare în clasă de risc seismic în anul 2018###
+CS3-00092#92#Clasa III#Bulevardul#REGINA ELISABETA#UNIVERSITATEA BUCUREȘTI#4-14##1#-##D+P+2E+2Ma#1857-1970#2016##Mircea MIRONESCU#Încadrat în clasa a II-a de risc seismic spre clasa a III-a de risc seismic###
+CS3-00098#98#Clasa III#Strada#SPERANŢEI##46##2#2##S+P+1E#1930#2015#300#Dinu CIOBOTARIU####
+CS3-00114#114#Clasa III#Strada#ZBORULUI##1##3#8##S+P+3E#1930#2013##Gheorghe SÂRBU####
+CNS-00004#4#Consolidata#Strada#BARBU MUMULEANU##11##2#5##Ds+P+2E+Ma#1934#1996#431#Mihai URSACHESCU#PVRTL nr.65177/2009###
+CNS-00009#9#Consolidata#Bulevardul#CAROL I##17##2#-##S+P+3E##-#4649#-#AC nr.977/112C/2004; PVRTL nr.3632/142078/2006###
+URG-00085#85#U3#Strada#ARON FLORIAN##6##2#0##S+P+3E#1929#1993#0#Cristian BALAN#U3###
+URG-00291#291#U2#Bulevardul#CORNELIU COPOSU##1#corp B#3#0##S+P+6E#1928#1994#0#Dan POPESCU#U2###
+URG-00397#397#U3#Strada#DOINA##11#bloc 1#5#0##S+P+2E#1960#1993#0#Constantin PAVEL#U3###
+URG-00398#398#U3#Strada#DOINA##13#bloc 2#5#0##S+P+2E#1960#1993#0#Constantin PAVEL#U3###
+URG-00399#399#U3#Strada#DOINA##15#bloc 3#5#0##S+P+2E#1960#1993#0#Constantin PAVEL#U3###
+URG-00410#410#U1#Intrarea#DRAGUŞA##5##4#0##S+P+1E+Ma#1938#1993#264#Traian POPP#U1###
+URG-00411#411#U2#Intrarea#DRAGUŞA##6##4#0##S+P+1E+Ma#1935#1993#240#Traian POPP#U2###
+URG-00412#412#U1#Intrarea#DRAGUŞA##15##4#0##S+P+2E+Ma#1937#1993#330#Traian POPP#U1###
+URG-00546#546#U3#Bulevardul#GHEORGHE MAGHERU##9##1#162##S+P+9E#1961#1996#17792#Nicolae ALEMAN#U3###
+URG-00572#572#U3#Șoseaua#GIURGIULUI##220##4#0##S+P#1938#1993#0#Dan STANCIULESCU#U3###
+URG-00658#658#U3#Soseaua#IANCULUI##53#bloc 102B#2#0##S+P+10 … 11E#1977#1993#0#Mircea CONDRUT#U3###
+URG-00659#659#U3#Soseaua#IANCULUI##39#bloc 103A#2#0##S+P+9 … 10E#1977#1993#0#Ion LUNGU#U3###
+URG-00741#741#U3#Bulevardul#IULIU MANIU##59#bloc 10A, fost Bd. Pacii nr. 9#6#0##S+P+8…11E#1976#1993#0#Ion LUNGU#U3###
+URG-00804#804#U2#Strada#LUNTREI##3#bloc 10#2#0##S+P+10E#1975#1993#0#Adina SIMION#U2###
+URG-01046#1046#U1#Strada#OSTAȘILOR##12#corp A+B#1#0##S+P+2E#1883#1993#0#Mihai PERJESCU#U1###
+URG-01216#1216#U3#Bulevardul#REGINA MARIA##36##4#0##P+1E+Ma#1900#1993#0#Dan STĂNCIULESCU#U3###
+URG-01236#1236#U3#Strada#RUSETU##10#bloc 16#6#0##S+P+4E#1961#1993#0#Mircea NEICU#U3###
+URG-01324#1324#U2#Aleea#SINAIA##10#bloc 74#2#44##S+P+10E#1976#1993#0#Nicolae CONSTANTINESCU#U2###
+URG-01545#1545#U2#Strada#VULTURILOR##4#corp A1+A2+B#3#0##S+P+1E#1910#1993#0#Dan POPESCU#U2###
+NCC-00002#2#N#Bulevardul#ALEXANDRU OBREGIA##33#bloc O3#4#0##S+P+9E#1965#1996#0#Corneliu MUDRACENCO#-###
+NCC-00083#83#N#Strada#MIRCEA VULCANESCU##107#corp A+B+C#1#0##S+P+2E#1870#1993#0#Radu AGENT#-###
+NCC-00102#102#Propus demolare#Strada#POPA TATU##85##1#0##S+P+2E#1885#2010#0#Rodica VASILESCU#expertul propune demolarea imobilului###
